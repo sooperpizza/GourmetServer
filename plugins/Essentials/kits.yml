@@ -6,6 +6,8 @@ kits:
     - stoneshovel 1
     - stonepickaxe 1
     - stoneaxe 1
+    - commandblock 1
+  
   dtools:
     delay: 600
     items:
